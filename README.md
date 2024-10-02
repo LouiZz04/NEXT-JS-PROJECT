@@ -1,3 +1,5 @@
+![Homepage](https://github.com/user-attachments/assets/a141231b-bc0d-4660-87b9-8ddb9838b4b6)
+
 ![userpage](https://github.com/user-attachments/assets/7ddccada-3827-4267-baf4-fabb4baefb25)
 
 # NextJS Project
