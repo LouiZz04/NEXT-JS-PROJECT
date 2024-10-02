@@ -1,3 +1,5 @@
+![HomePage](https://github.com/user-attachments/assets/826f3265-2b27-4c92-88b0-7b68c8201339)
+
 # NextJS Project
 
 Image and Video browsing website handling APIs and authentication, login and signup for users, user page containing liked images or videos
